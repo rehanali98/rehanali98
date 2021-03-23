@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rehanali98
 - 👀 I’m interested in making my project
-- 🌱 I’m currently learning git hub
+- 🌱 I’m currently learning git/nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rehanali03348004306@gmail.com
 
